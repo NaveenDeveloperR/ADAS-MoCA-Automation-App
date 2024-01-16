@@ -20,3 +20,31 @@ The ADAS MoCA Automation App is a Flutter-based mobile application designed to a
    ```bash
    git clone https://github.com/ccdrs/ADAS-MoCA-Automation-App.git)https://github.com/ccdrs/ADAS-MoCA-Automation-App.git
    cd adas-moca-automation-app
+
+2. **Setup Flutter:**
+   - Follow the Flutter installation guide: [Install Flutter](https://flutter.dev/docs/get-started/install)
+
+3. **Setup Firebase:**
+   - Create a Firebase project and configure it for Flutter. [Get Started with Firebase and Flutter](https://firebase.flutter.dev/docs/overview)
+
+4. **Run the App:**
+   ```bash
+   flutter run
+# Folder Structure
+
+- `lib/`: Contains the main source code for the Flutter app.
+- `assets/`: Place any assets (images, fonts, etc.) used by the app here.
+- `test/`: Includes unit and widget tests for the app.
+- `android/` and `ios/`: Platform-specific configuration and dependencies for Android and iOS.
+
+# Configuration
+
+Before running the app, make sure to configure your Firebase project credentials in the app. Add your `google-services.json` (for Android) and `GoogleService-Info.plist` (for iOS) files in the respective platform directories.
+
+# Testing
+
+Run unit and widget tests using the following command:
+
+```bash
+flutter test
+
