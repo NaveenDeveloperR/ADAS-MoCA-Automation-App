@@ -18,5 +18,5 @@ The ADAS MoCA Automation App is a Flutter-based mobile application designed to a
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ccdrs/ADAS-MoCA-Automation-App.git)https://github.com/ccdrs/ADAS-MoCA-Automation-App.git
    cd adas-moca-automation-app
