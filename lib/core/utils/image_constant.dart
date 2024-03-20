@@ -5,7 +5,7 @@ class ImageConstant {
   // Home page images
   static String imgTelevision = '$imagePath/img_television.svg';
 
-  static String imgCalendar = '$imagePath/img_calendar.svg';
+  static String imgCalendar = '$imagePath/img_calendar.png';
 
   // Visuospatial page Two images
   static String imgMingcutePencilFill =
@@ -23,14 +23,14 @@ class ImageConstant {
   static String imgSettingsBlack9000167x85 =
       '$imagePath/img_settings_black_900_01_67x85.svg';
 
-  static String imgArrow5 = '$imagePath/img_arrow_5.svg';
+  static String imgArrow5 = '$imagePath/img_arrow_5.png';
 
-  static String imgArrowLeft = '$imagePath/img_arrow_left.svg';
+  static String imgArrowLeft = '$imagePath/img_arrow_left.png';
 
-  static String imgArrow7 = '$imagePath/img_arrow_7.svg';
+  static String imgArrow7 = '$imagePath/img_arrow_7.png';
 
   static String imgArrowLeftBlack90001 =
-      '$imagePath/img_arrow_left_black_900_01.svg';
+      '$imagePath/img_arrow_left_black_900_01.png';
 
   // VS page-2 completed  images
   static String imgGroup99 = '$imagePath/img_group_99.svg';
@@ -49,7 +49,7 @@ class ImageConstant {
 
   static String imgUserBlack90002 = '$imagePath/img_user_black_900_02.svg';
 
-  static String imgClock = '$imagePath/img_clock.svg';
+  static String imgClock = '$imagePath/img_clock.png';
 
   static String imgUserBlack9000245x61 =
       '$imagePath/img_user_black_900_02_45x61.svg';
@@ -65,7 +65,7 @@ class ImageConstant {
 
   static String imgFaSolidEraser = '$imagePath/img_fa_solid_eraser.svg';
 
-  static String imgCharmCross = '$imagePath/img_charm_cross.svg';
+  static String imgCharmCross = '$imagePath/img_charm_cross.png';
 
   static String imgEdit = '$imagePath/img_edit.svg';
 
